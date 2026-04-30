@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.Python
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Test artifacts
+reports/
+.pytest_cache/
+.cache/
+allure-results/
+
+# Logs
+*.log
+
+# WebDriver
+geckodriver.log
+chromedriver.log
