@@ -27,3 +27,8 @@ allure-results/
 # WebDriver
 geckodriver.log
 chromedriver.log
+.venv/
+__pycache__/
+.pytest_cache/
+reports/
+.env
